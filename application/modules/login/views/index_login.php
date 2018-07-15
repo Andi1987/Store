@@ -39,7 +39,7 @@
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
-    <p class="login-box-msg"><b>Sign in</b></p>
+    <p class="login-box-msg"><b>Login</b></p>
 
     <form action="<?php echo base_url('login/login_prosess'); ?>" method="post">
       <div class="form-group has-feedback">
